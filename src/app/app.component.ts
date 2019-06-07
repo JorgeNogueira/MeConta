@@ -16,9 +16,25 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
+      title: 'Minha Conta',
       url: '/list',
-      icon: 'list'
+      icon: 'md-contact'
+    }
+    ,
+    {
+      title: 'Meus pontos',
+      url: '/list',
+      icon: 'md-trophy'
+    },
+    {
+      title: 'Minha Conta',
+      url: '/list',
+      icon: 'md-key'
+    },
+    {
+      title: 'Sobre',
+      url: '/list',
+      icon: 'md-information-circle'
     }
   ];
 

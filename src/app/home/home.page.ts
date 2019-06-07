@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  teste = "Me conta APP";
   constructor() {}
 
 }
